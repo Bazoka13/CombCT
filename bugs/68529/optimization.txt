@@ -1,0 +1,1 @@
+adce,instcombine,mem2reg,jump-threading,sink

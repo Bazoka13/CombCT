@@ -1,0 +1,1 @@
+-O3 -fno-inline-functions-called-once -fno-inline-small-functions -fno-tree-dce -fno-tree-forwprop -fno-tree-fre

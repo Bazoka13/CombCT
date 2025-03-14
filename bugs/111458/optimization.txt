@@ -1,0 +1,1 @@
+-O3 -fno-expensive-optimizations -fno-inline-small-functions -fno-ipa-sra -fno-tree-ccp -fno-tree-dse -fno-tree-fre -fno-tree-loop-ivcanon

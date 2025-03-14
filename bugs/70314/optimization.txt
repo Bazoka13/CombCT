@@ -1,0 +1,1 @@
+break-crit-edges,mem2reg,newgvn,structurizecfg

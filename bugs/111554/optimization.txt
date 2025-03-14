@@ -1,0 +1,1 @@
+-O3 -fno-dse -fno-inline -fno-store-merging -fno-toplevel-reorder -fno-tree-dce -fno-tree-dse

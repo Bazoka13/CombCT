@@ -1,0 +1,1 @@
+-O2  -fno-tree-fre -fno-delete-dead-exceptions -fnon-call-exceptions
